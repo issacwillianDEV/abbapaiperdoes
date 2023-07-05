@@ -1,0 +1,124 @@
+.cd-words-wrapper {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  font-size: 70px;
+}
+
+.cd-words-wrapper b {
+  display: inline-block;
+  position: absolute;
+  white-space: nowrap;
+  left: 0;
+  top: 0;
+}
+
+.blc {
+  font-size: 70px;
+}
+
+.cd-words-wrapper b.is-visible {
+  position: relative;
+}
+
+.cd-headline.clip span {
+  display: inline-block;
+  padding: .2em 0;
+}
+
+.cd-headline.clip .cd-words-wrapper {
+  overflow: hidden;
+  vertical-align: top;
+}
+
+.cd-headline.clip b {
+  opacity: 0;
+}
+
+.cd-headline b.is-visible {
+  opacity: 1;
+  font-weight: 900;
+}
+
+.sobre {
+  /*margin-left: 90px;*/
+  /*margin-top: 80px;*/
+  margin-right: 100px;
+}
+
+#toposbore {
+  margin-top: 100px!important;
+}
+
+#toposobre {
+  margin-top: 150px;
+}
+
+#baixenossoapp {
+  width: 100%;
+}
+
+#fundo1preto {
+  width: 100%;
+  padding-top: 150px;
+}
+
+#fundo2preto {
+  width: 80%;
+  margin-left: 40px;
+}
+
+#missaoevangelismo {
+  align-items: center;
+}
+
+#missaoevangelismoparagraph {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 25px;
+}
+
+#missasregularesparagraph {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 25px;
+}
+
+#apaixonadospeloreiono {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 25px;
+}
+
+#siganos {
+}
+
+#missalibertacao {
+  width: 30%;
+}
+
+#libertacaosubtitulo {
+  font-size: 17pt;
+}
+
+.santuarioimg1 {
+  width: 80%;
+}
+
+.subtituloprimeiro {
+  font-size: 25px;
+}
+
+.imglibertacao {
+  width: 25%;
+}
+
+#box-11 {
+  height: 10vh;
+  width: 100%;
+  background-image: url(../../assets/img/noiteprofeticafundo.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+

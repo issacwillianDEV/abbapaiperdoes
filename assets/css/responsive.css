@@ -1,0 +1,161 @@
+@media (max-width: 990px) {
+  #logo_topo {
+    margin-left: 0px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #fundo2preto {
+    /*margin-left: -260px;*/
+    /*margin-bottom: -500px;*/
+    /*width: 680px;*/
+  }
+}
+
+@media (max-width: 768px) {
+  #fundo1preto {
+    margin-left: 20px;
+    padding-top: 100px!important;
+  }
+}
+
+#toposobre {
+  padding-right: -0;
+}
+
+@media (max-width: 768px) {
+  #toposobre {
+    padding-right: 320px !important;
+  }
+}
+
+@media (max-width: 992px) {
+  #fundo1preto {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 992px) {
+  #fundo2preto {
+    /*margin-left: -320px;*/
+  }
+}
+
+@media (max-width: 576px) {
+  #missaoevangelismo-2 {
+    /*padding-left: 200px;*/
+    width: 60%;
+    padding-bottom: 60px;
+  }
+}
+
+@media (max-width: 992px) {
+  .sobre {
+    padding-bottom: 50px;
+  }
+}
+
+.sobre {
+}
+
+@media (max-width: 300px) {
+  #apaixonadospeloreiono {
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  .sobre {
+    /*margin-right: 50%!important;*/
+  }
+}
+
+#imagempadre {
+  width: 80%;
+}
+
+@media (max-width: 500px) {
+  #missaoevangelismoparagraph {
+    font-size: 12pt;
+    padding-top: 100px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  #missasregularesparagraph {
+    font-size: 12pt;
+    padding-top: 130px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  #apaixonadospeloreiono {
+    font-size: 12pt;
+  }
+}
+
+@media (max-width: 500px) {
+  #letratrabalhomissionario {
+    margin-right: -25%!important;
+    font-size: 17px!important;
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  #missaoevangelismo {
+    margin-top: 30px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  #imagempadre {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  #missaoevangelismo-1 {
+    width: 50%;
+  }
+}
+
+@media (max-width: 500px) {
+  .subtituloprimeiro {
+    padding-top: 50px;
+    font-size: 15pt;
+  }
+}
+
+@media (max-width: 500px) {
+  .imglibertacao {
+    width: 60%;
+  }
+}
+
+@media (max-width: 500px) {
+  .santuarioimg1 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .saomiguelsant {
+    margin-bottom: 50px!important;
+    margin-top: 50px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  .santuariosaomiguel {
+    margin-bottom: 60px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  .churchabbapai {
+    margin-bottom: 60px!important;
+  }
+}
+
